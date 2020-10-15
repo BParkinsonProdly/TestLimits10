@@ -1,0 +1,4 @@
+"Guid","AccountId","Comments","ContactId","Description","IsEscalated","Origin","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedEmail","SuppliedName","SuppliedPhone","Type"
+54f9ef08-2b72-404c-b14a-4f1040749572,"#N/A","#N/A","#N/A","#N/A",false,Phone,Medium,User didn't attend training,New,Test Sharma,"#N/A","#N/A","#N/A","#N/A",Problem
+5fad23d6-71c7-4627-9bad-eceaf020760d,86eec441-0606-4269-a279-ae8f47e25dd2,"#N/A",9a9f8b64-1270-43e6-9912-59f5accbddfe,"#N/A",false,Email,Medium,User didn't attend training,New,Test,"#N/A","#N/A","#N/A","#N/A",Problem
+cd92dc08-a7b7-41b6-9195-5748170e8caf,e82af920-3d7c-4acf-8120-41f68d0617b9,"#N/A",57d10876-0294-40aa-b7ad-c5f8e9f0adc0,"#N/A",false,Email,Medium,"#N/A",New,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"

@@ -1,0 +1,3 @@
+"Guid","AccountId","AssetProvidedById","AssetServicedById","ContactId","Description","InstallDate","IsCompetitorProduct","IsInternal","Name","Price","PurchaseDate","Quantity","SerialNumber","Status","UsageEndDate"
+58e4fe07-7eae-4375-bffd-0cf783216fe1,e82af920-3d7c-4acf-8120-41f68d0617b9,"#N/A","#N/A",57d10876-0294-40aa-b7ad-c5f8e9f0adc0,"#N/A","#N/A",false,false,YT Asset product,"#N/A","#N/A",1.0,"#N/A","#N/A","#N/A"
+978f9f66-2994-45db-a3e6-c299c98dd078,86eec441-0606-4269-a279-ae8f47e25dd2,"#N/A","#N/A",9a9f8b64-1270-43e6-9912-59f5accbddfe,"#N/A",2020-10-14,true,false,Asset Test,54545.0,2020-10-14,1.0,"#N/A",Purchased,2020-10-14
