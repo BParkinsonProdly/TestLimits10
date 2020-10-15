@@ -1,6 +1,11 @@
-"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","StageName","Type"
-0c77bb6c-1bcc-49ce-aa28-816c174c89f7,e82af920-3d7c-4acf-8120-41f68d0617b9,"#N/A",2020-10-15,"#N/A","#N/A",Pipeline,"#N/A",best lead opp,"#N/A",10.0,Qualification,"#N/A"
-1784ef68-8ead-4420-bdb8-0104f4b5c551,86eec441-0606-4269-a279-ae8f47e25dd2,31970.0,2020-10-28,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity,"#N/A",10.0,Prospecting,Existing Business
-5ea08a93-0211-4455-9b9e-3f9906265b52,74274dfc-1016-416d-b58d-37f006361fd5,33777.0,2020-10-14,"#N/A","#N/A",Closed,"#N/A",Amend Opp,"#N/A",100.0,Closed Won,"#N/A"
-856dc5d6-2cfe-4b3c-ba4b-43bf81d5ab19,c61cf6b6-c725-4ade-9c4d-34e70ee4b9f4,20850.0,2020-10-14,"#N/A","#N/A",Pipeline,"#N/A",Large Account opp,"#N/A",10.0,Qualification,"#N/A"
-dc3dc4b7-2b2a-4651-a2d3-058350d1adfd,"#N/A",20000.0,2020-10-14,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity Latest,"#N/A",10.0,Prospecting,Existing Business
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+0c77bb6c-1bcc-49ce-aa28-816c174c89f7,e82af920-3d7c-4acf-8120-41f68d0617b9,"#N/A",2020-10-15,"#N/A","#N/A",Pipeline,"#N/A",best lead opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+1784ef68-8ead-4420-bdb8-0104f4b5c551,"#N/A",31970.0,2020-10-28,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+37af040e-c8c7-48bd-b862-7aaaa166ba0e,4f0687b1-5c92-4c77-a8c8-84991cb21d34,20850.0,2020-10-14,"#N/A","#N/A",Pipeline,"#N/A",Large Account opp,"#N/A",10.0,true,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+4971c85d-beb9-4e18-8d56-9f3003d4bfd0,b087ef4c-8934-4144-b16b-c4836cd6e0ce,31970.0,2020-10-28,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity,"#N/A",10.0,true,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+5ea08a93-0211-4455-9b9e-3f9906265b52,74274dfc-1016-416d-b58d-37f006361fd5,33777.0,2020-10-14,"#N/A","#N/A",Closed,"#N/A",Amend Opp,"#N/A",100.0,false,false,"#N/A",false,"#N/A",false,Closed Won,"#N/A"
+856dc5d6-2cfe-4b3c-ba4b-43bf81d5ab19,c61cf6b6-c725-4ade-9c4d-34e70ee4b9f4,20850.0,2020-10-14,"#N/A","#N/A",Pipeline,"#N/A",Large Account opp,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+935a5efc-048f-48eb-a53d-d9eb4fafc0dc,5751b587-54bc-41b7-b281-694239cfa879,33777.0,2020-10-14,"#N/A","#N/A",Closed,"#N/A",Amend new Opp,"#N/A",100.0,true,false,"#N/A",false,"#N/A",false,Closed Won,"#N/A"
+a2824512-19a2-4cc0-8e24-3d6406d663f3,"#N/A",20000.0,2020-10-14,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity Latest,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
+cac064e0-1b0e-4ea3-95e9-f9f4aaa4e251,"#N/A","#N/A",2020-10-15,"#N/A","#N/A",Pipeline,"#N/A",Test Latest opportunity,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Qualification,"#N/A"
+dc3dc4b7-2b2a-4651-a2d3-058350d1adfd,"#N/A",20000.0,2020-10-14,"#N/A","#N/A",Pipeline,Advertisement,Test opportunity Latest,"#N/A",10.0,false,false,"#N/A",false,"#N/A",false,Prospecting,Existing Business
